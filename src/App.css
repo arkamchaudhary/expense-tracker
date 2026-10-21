@@ -308,5 +308,5 @@ html[data-theme="dark"] .app-shell .date-report-card label,
 html[data-theme="dark"] .app-shell .date-report-card .report-summary-grid span,
 html[data-theme="dark"] .app-shell .date-report-card .report-entry > div span { color: #a9bbb3 !important; }
 html[data-theme="dark"] .app-shell .date-report-card .report-summary-grid > div,
-html[data-theme="dark"] .app-shell .date-report-card .report-entry { border-color: #2c403a !important; }
+html[data-theme="dark"] .app-shell .date-report-card .report-entry { border-color: #2c403a !important; }   
 html[data-theme="dark"] .app-shell .date-report-card .report-empty { background: #111b18 !important; }
